@@ -22,9 +22,11 @@
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
     - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
+    - [GoLand (IDE)](https://github.com/amitmerchant1990/how-products-got-their-name#goland-ide)
     - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-framework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
     - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
+    - [Symfony (PHP framework)](https://github.com/amitmerchant1990/how-products-got-their-name#symfony-php-framework)
     - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
     - [Hadoop (Open source big data software)](https://github.com/amitmerchant1990/how-products-got-their-name#hadoop-open-source-big-data-software)
     - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
@@ -33,6 +35,7 @@
     - [Bash (Unix shell)](https://github.com/amitmerchant1990/how-products-got-their-name#bash-unix-shell)
     - [Trello (Project management application)](https://github.com/amitmerchant1990/how-products-got-their-name#trello-project-management-application)
     - [Ansible (Application Deployment, etc)](https://github.com/amitmerchant1990/how-products-got-their-name#ansible-application-deployment-etc)
+    - [Unigine (Game engine)](https://github.com/amitmerchant1990/how-products-got-their-name#unigine-game-engine)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
@@ -65,6 +68,13 @@ _Fun fact: Monty is also the lead developer for MariaDB, a fork of MySQL named a
 Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: _"I'm an egotistical bastard, and I name all my projects after myself."_ First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
 
 > _Reference: https://en.wikipedia.org/wiki/Git_
+
+### GoLand (IDE)
+
+GoLand is a cross-platform IDE by JetBrains aimed at providing an ergonomic environment for Go development. Initially the name was Gogland, from the [Gogland Island](https://en.wikipedia.org/wiki/Gogland) in the eastern Baltic Sea, near St. Petersburg. But later IDE was renamed to GoLand.
+
+> _Reference: https://blog.jetbrains.com/go/2016/12/15/announcing-gogland-brand-new-go-ide-from-jetbrains/_  
+> _Reference: https://blog.jetbrains.com/go/2017/11/02/announcing-goland-former-gogland-eap-18-final-product-name-templates-support-and-more/_  
 
 ### Ubuntu (Operating system)
 
@@ -109,6 +119,12 @@ The history of the name Mozilla goes all the way back to the internal codename f
 ### Firefox (Browser)
 
 The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird" (which was the former name of Firefox), but also for its uniqueness in the computing industry as the name Firebird clashed with the opensource Firebird database. The name "Firebird" itself was picked because it was another name for a "Phoenix" (which was the browser's name prior to Firebird). "Phoenix" was chosen as it was the browser that rose from the ashes of the Mozilla browser, however a trademark infringement complaint from Phoenix Technologies prompted the name change to Firebird.
+
+### Symfony (PHP framework)
+
+The first name was Sensio Framework, and all classes were therefore prefixed with `sf`. Later on when it was decided to launch it as open source framework, the brainstorming resulted in the name symfony (being renamed to Symfony from version 2 and on), which matches the existing theme and class name prefixes.
+
+> Reference: https://en.wikipedia.org/wiki/Symfony#Sponsors
 
 ### Laravel (PHP Framework)
 
@@ -192,7 +208,7 @@ Trello was code named Trellis when it was in development. It got that name becau
 
 Lua is a scripting language created by Brazilians Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes. Lua is a Portuguese word which means "moon"; this naming choice reflects that the language was partially inspired by SOL, which means "sun" in Portuguese. The authors of the language kindly request that you write it as "Lua" and not "LUA".
 
-> _Reference: https://www.lua.org/about.html_
+> _Reference: https://www.lua.org/about.html_  
 > _Reference: https://wiki.debian.org/WhyTheName#lua_
 
 ### Ansible (Application Deployment, etc)
@@ -207,10 +223,16 @@ The name comes from [Kotlin Island](https://en.wikipedia.org/wiki/Kotlin_Island)
 
 > _Reference: https://en.wikipedia.org/wiki/Kotlin_(programming_language)_
 
+### Unigine (Game engine)
+
+Unigine is a proprietary cross-platform game engine, developed by Russian software company Unigine Corp. The name "Unigine" means "universal engine" or "unique engine".
+
+> _Reference: https://en.wikipedia.org/wiki/Unigine_
+
 ## Contribute
 
 Do you have some more products/projects/companies to add which have interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
 
 ## License
 
-MIT
+MIT © [Amit Merchant](https://www.amitmerchant.com)
